@@ -1,10 +1,24 @@
-AI Chat Assistant – Android App (Kotlin + Jetpack Compose)
+# 🤖 AI Chat Assistant – Android App (Kotlin + Jetpack Compose)
 
-A modern Android AI chatbot app powered by a generative AI SDK [Gemini]
-Users can ask any question and get intelligent, conversational answers right inside a beautiful, responsive UI.
+<p align="center">
+  <img src="app/src/main/res/demo/Chat Bot AI.gif" alt="AI Chatbot Demo" width="320"/>
+</p>
 
-🚀 Features
+A sleek, modern Android chatbot app powered by **Generative AI** (Gemini / OpenAI).  
+Ask **anything**, get **intelligent responses**, and enjoy a beautiful, responsive chat experience.
 
-💬 Real-time AI chat interface with context memory
+---
 
-⚡ Built with Kotlin + Jetpack Compose for a clean and reactive UI
+## 🚀 Features
+
+- 💬 Conversational AI assistant with context-aware chat  
+- ⚡ Built using **Kotlin** + **Jetpack Compose**  
+
+---
+
+## 🧩 Tech Stack
+
+| Category | Stack |
+|-----------|-------|
+| Language | Kotlin |
+| UI | Jetpack Compose, Material 3 |
