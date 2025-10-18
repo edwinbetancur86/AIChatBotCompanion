@@ -4,7 +4,7 @@
   <img src="app/src/main/res/demo/Chat Bot AI.gif" alt="AI Chatbot Demo" width="320"/>
 </p>
 
-A sleek, modern Android chatbot app powered by **Generative AI** (Gemini / OpenAI).  
+A sleek, modern Android chatbot app powered by **Generative AI** (Gemini).  
 Ask **anything**, get **intelligent responses**, and enjoy a beautiful, responsive chat experience.
 
 ---
